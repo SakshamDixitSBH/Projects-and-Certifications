@@ -102,7 +102,7 @@ Their support made each project more meaningful.
 ### 📫 Contact  
 - **Email:** sakshamdixit1124@gmail.com  
 - **GitHub:** [github.com/SakshamDixitSBH](https://github.com/SakshamDixitSBH)  
-- 💼 *Portfolio Link (for Common App):* [Projects and Certifications Repository](https://github.com/SakshamDixitSBH/Projects-and-Certifications)
+
 
 ---
 
