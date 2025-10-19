@@ -65,5 +65,4 @@ For questions or collaboration opportunities, email **sakshamdixit1124@gmail.com
 
 ---
 
-### 🧩 Repository Structure
-*(High-level directory outline can go here if you’d like to show organization.)*
+
