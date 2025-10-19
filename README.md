@@ -58,7 +58,15 @@ Explaining each topic reinforced my own learning while helping others grasp the 
 
 ✨ Whether you’re a high school student, beginner programmer, or aspiring software engineer, this course makes complex ideas approachable through clear explanations and visual examples.
 
-[![Watch the video](https://img.youtube.com/vi/98hNApqiXkM/0.jpg)](https://www.youtube.com/watch?v=98hNApqiXkM)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=98hNApqiXkM" target="_blank">
+    <img src="https://img.youtube.com/vi/98hNApqiXkM/0.jpg" 
+         width="480" 
+         style="border-radius:12px; border:1px solid #ccc;" 
+         alt="YouTube Course Preview">
+  </a>
+</p>
+
 
 
 
