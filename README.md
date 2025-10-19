@@ -41,6 +41,27 @@ Explored algorithms, data structures, memory, and full-stack development through
 
 ---
 
+
+## 🎥 YouTube Course – Introduction to Data Structures & Algorithms
+
+After strengthening my programming fundamentals through Harvard’s CS50 course, I wanted to deepen my understanding by teaching others.  
+This video series is a beginner-friendly introduction to Data Structures & Algorithms (DSA) that helps learners build a strong foundation for coding interviews, competitive programming, or simply improving problem-solving skills.  
+Teaching these concepts reinforced my own learning and communication skills.
+
+**In this course, viewers learn:**
+- ✅ What data structures are and why they matter  
+- ✅ Arrays, linked lists, stacks, and queues explained simply  
+- ✅ Sorting algorithms (Bubble, Selection, Insertion, Merge, Quick)  
+- ✅ Basics of trees and binary trees  
+- ✅ How recursion works and why it’s powerful  
+- ✅ Understanding Big-O Notation (time and space complexity)
+
+✨ Whether you’re a high-school student, beginner programmer, or aspiring software engineer, this course makes complex ideas approachable through visual, real-world examples.
+
+▶️ [Watch Course on YouTube](https://www.youtube.com/watch?v=98hNApqiXkM&feature=youtu.be)
+
+
+---
 ## 🤝 Volunteer & Teaching Certifications
 
 These experiences reflect my commitment to education, community service, and giving back.
