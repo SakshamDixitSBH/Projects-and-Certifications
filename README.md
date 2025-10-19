@@ -5,43 +5,53 @@ It also includes certifications and recognitions from courses and volunteer init
 
 ---
 
+## 🚗 LiftTogether – Volunteer Ride-Sharing App
+
+A community-driven Android app that connects seniors and individuals in need of transportation with volunteer drivers.  
+Prioritizes ride requests based on urgency and provides real-time tracking.  
+
+📱 [View LiftTogether App Repository](https://github.com/SakshamDixitSBH/LiftTogether)
+
+---
+
 ## 🧠 AI-Powered Pothole Detection System
 
 A research project focused on improving road safety using AI.  
-Developed a smartphone-based system that uses accelerometer, GPS, and camera data to detect potholes and generate risk heatmaps.  
+Developed a smartphone-based system that combines accelerometer, GPS, and camera data to detect potholes and generate risk heatmaps for preventive maintenance.
+
 - **Tech Stack:** Python, TensorFlow, Google Colab, OpenCV  
 - **Model:** CNN classifier trained on 1,500+ labeled road images (~92% accuracy)  
-- **Output:** Risk heatmaps to guide road maintenance prioritization  
+- **Output:** Risk heatmaps for identifying high-risk road zones  
 - **Publication:** *International Journal of High School Research (IJHSR)*  
 
-📄 [View Research Paper (PDF)](link-placeholder)  
-💻 [GitHub Repository (if separate)](link-placeholder)
+📄 [View Full Research Paper (PDF)](https://github.com/SakshamDixitSBH/Projects-and-Certifications/blob/main/AI-Powered-Pathhole-Detection/Dixit_Saksham.docx.pdf)
+
 
 ---
 
 ## 🎓 Harvard CS50 – Introduction to Computer Science
 
-Completed Harvard’s CS50 course, gaining hands-on experience with algorithms, C programming, SQL, HTML, and Python.  
-Projects included building web apps, game logic, and data structures fundamentals.
+Completed Harvard’s CS50 course, a rigorous introduction to computer science fundamentals.  
+Explored algorithms, data structures, memory, and full-stack development through hands-on projects and labs.
 
-📜 [Verified CS50 Certificate](link-placeholder)
+- **Key Topics:** C programming, Python, SQL, HTML/CSS, Flask  
+- **Projects:** Web applications, game logic, and data-processing programs  
+- **Outcome:** Strengthened problem-solving skills and deepened understanding of computational thinking  
 
----
+📜 [View Verified CS50 Certificate (PNG)](https://github.com/SakshamDixitSBH/Projects-and-Certifications/blob/main/Harvard-CS-50/CS50x_certificate.png)
+
 
 ## 🤝 Volunteer and Teaching Certifications
 
-### Mathnasium Learning Center
-- Instructor for K–12 students, focusing on strengthening mathematical confidence and problem-solving.
+These experiences reflect my commitment to education, community service, and giving back.
 
-### Schoolhouse.world
-- Global volunteer SAT Bootcamp coach, mentoring students in SAT Math preparation and study strategy.
+- **Mathnasium Learning Center** – Instructor for K–12 students, helping build math confidence and problem-solving skills.  
+- **Schoolhouse.world** – Global SAT Bootcamp coach, mentoring students in SAT Math preparation.  
+- **Hindu Temple Community Volunteering** – Assisted with cultural events, youth education, and logistics for community gatherings.  
+- **Sahyog NGO** – Tutored under-resourced students in math and basic computer science; helped organize local STEM learning sessions.  
 
-### Community Tutoring & NGO Work
-- Taught math and computer science to under-resourced students and led local STEM workshops.
+📄 [View All Certificates Folder](https://github.com/SakshamDixitSBH/Projects-and-Certifications/tree/main/Volunteer_Certifications)
 
-📄 [View Certificates Folder](link-placeholder)
-
----
 
 ## 🙏 Acknowledgments
 
