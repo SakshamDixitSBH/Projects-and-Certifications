@@ -66,7 +66,7 @@ Explaining each topic reinforced my own understanding while helping others grasp
 
 ✨ Whether you’re a high-school student, beginner programmer, or aspiring software engineer, this course makes complex ideas approachable through clear explanations and visual examples.  
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/watch?v=98hNApqiXkM" target="_blank">
     <img src="https://img.youtube.com/vi/98hNApqiXkM/0.jpg" 
          width="480" 
